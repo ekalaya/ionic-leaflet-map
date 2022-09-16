@@ -1,0 +1,7 @@
+{
+  "name": "ionic-leaflet-map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
