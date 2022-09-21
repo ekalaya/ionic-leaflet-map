@@ -7,7 +7,12 @@
   top: 50%;
   transform: translateY(-50%);
 }
-
+.leaflet {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+}
 #container strong {
   font-size: 20px;
   line-height: 26px;
